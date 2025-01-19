@@ -42,7 +42,7 @@
   <a href="#" title="Vi Hong Minh">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhvh5504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
-  
+  <br> 
   <a href="#" title="Vi Hong Minh">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhvh5504&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=pie&border_color=61dafb&hide_border=true" />
   </a>
