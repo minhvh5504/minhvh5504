@@ -40,7 +40,7 @@
 <br>
 <div align="center">
   <a href="#" title="Vi Hong Minh">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhvh5504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=minhvh5504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
   <br> 
   <a href="#" title="Vi Hong Minh">
