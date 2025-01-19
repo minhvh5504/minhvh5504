@@ -38,7 +38,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align="colum">
+<div align="center">
   <a href="#" title="Vi Hong Minh">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=minhvh5504&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
