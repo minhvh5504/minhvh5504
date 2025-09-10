@@ -1,4 +1,7 @@
 <!-- Vi Hong Minh -->
+<a href="#" target="_blank">
+  <img src="vihongminh.svg" width="1200" alt="vihongminh" />
+</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
