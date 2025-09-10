@@ -5,6 +5,9 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
+<span>
+  <img src="https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+</span>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
