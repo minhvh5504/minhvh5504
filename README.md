@@ -43,7 +43,7 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<!-- <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
   <img
@@ -57,7 +57,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhvh5504&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;langs_count=8"
     alt="Vi Hong Minh Top Languages"
   />
-</div>
+</div> -->
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
