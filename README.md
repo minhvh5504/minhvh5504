@@ -43,21 +43,22 @@
 &nbsp;
 
 <br>
-<!-- <h2 align="center">🔥 GitHub Stats 🔥</h2>
+ <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
+  <div align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=minhvh5504&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;include_all_commits=true"
+    width="53%"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=minhvh5504&show_icons=true&theme=react&hide_border=true&include_all_commits=true"
     alt="Vi Hong Minh GitHub Stats"
   />
-
   <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhvh5504&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;langs_count=8"
+    width="35%"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=minhvh5504&layout=compact&theme=react&hide_border=true&langs_count=8"
     alt="Vi Hong Minh Top Languages"
   />
-</div> -->
+</div>
+</div>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
