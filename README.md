@@ -3,6 +3,11 @@
   <img src="vihongminh.svg" width="1200" alt="vihongminh" />
 </a>
 
+### WELCOME TO MY GITHUB 👋👋👋
+Hi, I'm Vi Hồng Minh, a Mobile & Backend Developer.
+
+I enjoy building mobile applications, exploring new technologies, and working on projects that help me improve my skills and experience.<br>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
